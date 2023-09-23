@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcin Rasała</h1>  
 <h3 align="center">A Junior Full Stack Developer 👨‍💻 from Katowice ,Poland.</h3>  
   
-🔭 I want to gain my first commercial experience as a junior dev .
+🔭 I want to gain my first commercial experience as a junior dev . <br>
 🌱 In my free time , i solve tasks on codewars and read books related to programing.
 
   
